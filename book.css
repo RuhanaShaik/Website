@@ -1,0 +1,42 @@
+.nav{
+    display: flex;
+    justify-content:space-between;
+    background-color: #439674;
+    color: #ffffff;
+
+}
+.ul{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-size: 30px;
+    color: #ffffff;
+}
+.logo{
+    display: flex;
+    font-size: 40px;
+    color: aliceblue;
+    justify-content: space-between;
+}
+.div1{
+    padding: 20px;
+}
+.div{
+    float: center;
+    border: solid #439674 ;
+    text-align: center;
+    width: 50%;
+    padding: 30px;
+}
+.h1{
+    text-align: center;
+    font-size: 40px;
+}
+button{
+    font-size: 20px;
+    border-radius: 10px;
+}
+.div2{
+    border: solid #439674 ;
+    width: 50%;
+}

@@ -1,0 +1,47 @@
+nav{
+    display: flex;
+    justify-content:space-between;
+    background-color: #439674;
+    color: #ffffff;
+
+}
+.ul{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-size: 30px;
+    color: #ffffff;
+}
+.logo{
+    display: flex;
+    font-size: 40px;
+    color: aliceblue;
+    justify-content: space-between;
+}
+.form{
+    border: solid #439674;
+    background-color: #f1eded;
+    border-radius: 5px;
+    width: 500px;
+    height: 650px;
+    font-size: 30px;
+    padding: 50px;
+    gap: 20px;
+    grid-row: auto;
+    transition:1s;
+border-radius: 20px;
+    }
+.form:over{
+    width: 500px;
+    transition:0.2s;
+}
+.h2{
+    width: 150px;
+    height: 30px;
+ }
+button{
+    text-align: center;
+    font-size: 30px;
+    border-radius: 10px;
+   
+}
